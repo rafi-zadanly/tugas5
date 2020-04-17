@@ -1,0 +1,15 @@
+{
+    "name": "zadanly/tugas5",
+    "description": "Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Rafi Zadanly",
+            "email": "rafizadanly@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
